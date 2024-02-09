@@ -34,5 +34,5 @@ trap exit_node SIGINT
 
 echo "Running an Aleo Prover node..."
 $COMMAND &
-
+done
 
